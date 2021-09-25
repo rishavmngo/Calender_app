@@ -164,3 +164,21 @@ form > * {
 .display {
   visibility: visible;
 }
+
+.submit-btn {
+  background: rgb(92, 101, 226);
+  border: none;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  text-transform: capitalize;
+}
+.submit-btn:hover {
+  background-image: radial-gradient(
+    rgb(255, 255, 255, 0.2),
+    rgba(255, 0, 0, 0)
+  );
+}
+.submit-btn:active {
+  background: rgb(146, 146, 146);
+}

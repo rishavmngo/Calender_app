@@ -12,5 +12,3 @@
 
 1. JavaScript
 2. Css
-
-> Work Is still In progress
