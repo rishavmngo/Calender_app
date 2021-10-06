@@ -10,7 +10,6 @@
 }
 
 body {
-  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -34,7 +33,6 @@ body {
 }
 .calender-container {
   width: 700px;
-  height: 400px;
   max-width: 800px;
   background: none;
   margin-bottom: 100px;
